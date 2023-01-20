@@ -1,69 +1,223 @@
+.image{
+    width: 200px;
+    height: 200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 40%;
+}
+
+
+
+
 
 .ID61bd1dbc918f12c17b9c646e{
     color: green;
+   
 }
+.IDD61bd1dbc918f12c17b9c646e{
+    background-image: url(../img/Aburame_Symbol.png);
+}
+
+
 
 .ID61bd1dbc918f12c17b9c646f {
     color: green ;
 }
+.IDD61bd1dbc918f12c17b9c646f {
+    background-image: url(../img/Symbole_du_clan_Akimichi.svg.png);
+}
+
+
+
 
 .ID61bd1dbc918f12c17b9c6470 {
     color: blue;
 }
-.ID61bd1dbc918f12c17b9c6471{
-    color: rgba(255, 255, 255, 0.041);
+.IDD61bd1dbc918f12c17b9c6470 {
+    background-image: url(../img/fuuma.png);
 }
+
+
+
+
+.ID61bd1dbc918f12c17b9c6471{
+    color: rgb(199, 195, 195);
+}
+.IDD61bd1dbc918f12c17b9c6471{
+    background-image: url(../img/houzuki.png);
+}
+
+
+
 .ID61bd1dbc918f12c17b9c6472 {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c6472 {
+    background-image: url(../img/hyuga.jpg);
+}
+
+
+
 .ID61bd1dbc918f12c17b9c6473 {
     color: green;
 }
-.ID61bd1dbc918f12c17b9c6474 {
-    color: rgba(255, 255, 255, 0.041);
+.IDD61bd1dbc918f12c17b9c6473 {
+    background-image: url(../img/Inuzuka_Icone.webp);
 }
+
+
+
+
+.ID61bd1dbc918f12c17b9c6474 {
+    color: rgb(199, 195, 195);
+}
+.IDD61bd1dbc918f12c17b9c6474 {
+    background-image: url(../img/200px-Kaguya_Symbol.svg.webp);
+}
+
+
 .ID61bd1dbc918f12c17b9c6475 {
     color: brown;
 }
+.IDD61bd1dbc918f12c17b9c6475 {
+    background-image: url(../img/Kamiuru.webp);
+}
+
+
+
+
 .ID61bd1dbc918f12c17b9c6476 {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c6476 {
+    background-image: url(../img/kedoin.png);
+}
+
+
+
+
 .ID61bd1dbc918f12c17b9c6477{
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c6477{
+    background-image: url(../img/Kohaku_Symbol.png);
+}
+
+
+
+
+
+
 .ID61bd1dbc918f12c17b9c6478 {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c6478 {
+    background-image: url(../img/1200px-Logo_clan_Kurama.svg-removebg-preview.png);
+}
+
+
+
+
+
 .ID61bd1dbc918f12c17b9c6479 {
     color: green;
 }
-.ID61bd1dbc918f12c17b9c647a {
-    color: rgba(255, 255, 255, 0.144);
+.IDD61bd1dbc918f12c17b9c6479 {
+    background-image: url(../img/Nara_Symbol.png);
 }
+
+
+
+
+.ID61bd1dbc918f12c17b9c647a {
+    color: white;
+}
+.IDD61bd1dbc918f12c17b9c647a {
+    background-image: url(../img/sakon.jpg);
+}
+
+
+
+
+
 .ID61bd1dbc918f12c17b9c647b {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c647b {
+    background-image: url(../img/Sarutobi_Symbol.png);
+}
+
+
+
+
+
+
 .ID61bd1dbc918f12c17b9c647c {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c647c {
+    background-image: url(../img/senju.png)
+}
+
+
+
 
 .ID61bd1dbc918f12c17b9c647d{
-    color: rgba(255, 255, 255, 0.144);
+    color: white;
 }
+.IDD61bd1dbc918f12c17b9c647d{
+    background-image: url(../img/shiin.png);
+}
+
+
+
 
 .ID61bd1dbc918f12c17b9c647e {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c647e {
+    background-image: url(../img/uchiha.png);
+}
+
+
+
+
 .ID61bd1dbc918f12c17b9c647f {
     color: rgb(0, 174, 255);
 }
+.IDD61bd1dbc918f12c17b9c647f {
+    background-image: url(../img/uzumaki.jpg);
+}
+
+
 .ID61bd1dbc918f12c17b9c6480 {
     color: green;
 }
+.IDD61bd1dbc918f12c17b9c6480 {
+    background-image: url(../img/Yamanaka_Symbol.png);
+}
+
+
+
+
+.ID61bd1dbc918f12c17b9c6481{
+    color: white;
+}
+.IDD61bd1dbc918f12c17b9c6481{
+    background-image: url(../img/Yotsuki_Symbol.png);
+}
+
+
+
 
 .ID61bd1dbc918f12c17b9c6482 {
-    color: rgba(255, 255, 255, 0.041);
+    color: rgb(199, 195, 195);
 }
+.IDD61bd1dbc918f12c17b9c6482 {
+    background-image: url(../img/Yuki_Symbol.png);
+}
+
 
 
 .ID61bd1dbc918f12c17b9c6471:hover{

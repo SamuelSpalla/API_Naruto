@@ -13,7 +13,7 @@
 
 
 body{
-    background-color: black;
+    background-color:rgb(192, 192, 192);
     color: white;
     text-align: center;
     
@@ -21,7 +21,7 @@ body{
 main{
     background-color: rgb(221, 144, 0);
     height: 92vh;
-    border-bottom: 10px solid gray;
+    border-bottom: 10px solid black;
 }
 .container{
     width: 100%;
@@ -75,9 +75,11 @@ main{
     
 }
 
-.contents{
-    margin-top: 10%;
-
+.contents h2{
+    margin-top: 5%;
+    margin-bottom: 8%;
+    font-size: 5rem;
+    color: black;
 }
 
 

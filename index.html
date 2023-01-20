@@ -8,19 +8,32 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/style2.css">
 
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
     <title>API Naruto</title>
 </head>
 <body>
     <main>
-        <img class="logo" src="img/Naruto_logo.svg.png" alt="">
-        <img class="gif_naruto" src="img/fire-naruto.gif" alt="">
-        <img class="gif_sasuke" src="img/sasuke.gif" alt="">
+        <img class="logo" data-aos="fade-down" data-aos-easing="linear"
+        data-aos-duration="1500" src="img/Naruto_logo.svg.png" alt="">
+        <img class="gif_naruto" data-aos="fade-right" data-aos-easing="linear"
+        data-aos-duration="1500" src="img/fire-naruto.gif" alt="">
+        <img class="gif_sasuke"  data-aos="fade-left" data-aos-easing="linear"
+        data-aos-duration="1500" src="img/sasuke.gif" alt="">
+        <img src="img/F%3Fma_Symbol.png" alt="">
         
-        <img class="rasen" src="img/Png.png" alt="">
+        <img class="rasen"  src="img/Png.png" alt="">
     </main>
-    <section class="contents">
+
+    <section class="symbols">
+        <div></div>
+    </section>
+    
+    
+    <section class="contents" data-aos="fade-up">
+        <h2>NARUTO CLANS</h2>
         <div class="container">
-            <div class="personagens">
+            <div class="personagens" >
             </div>
          </div>
     </section>
@@ -28,7 +41,8 @@
 
 
 </body>
-
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script src="js/index.js"></script>
+
 
 </html>

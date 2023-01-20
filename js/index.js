@@ -1,3 +1,5 @@
+AOS.init();
+
 const listPersons = document.querySelector('.personagens')
 
 const fetchNaruto = async (query)=>{
@@ -39,8 +41,8 @@ function entryNaruto(persons){
 
     naruto.forEach(chave => (
         template += `
-            <li class="main_infos">
-                <img class="image" src="${chave.avatarSrc}">
+            <li class="main_infos" >
+                <div class="image IDD${chave._id}"></div>
                 <div class="infos">
                     <h5>${chave.name}</h5>
                     <p class="desc">${chave.description}</p>
